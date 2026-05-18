@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+  <rect width="256" height="256" rx="56" ry="56" fill="#18181b"/>
+  <path d="M 28 44 L 28 28 L 44 28" stroke="#6366f1" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M 228 212 L 228 228 L 212 228" stroke="#6366f1" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <text x="128" y="128" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="700" font-size="110" fill="#ffffff" text-anchor="middle" dominant-baseline="central" letter-spacing="-2">KM</text>
+</svg>
